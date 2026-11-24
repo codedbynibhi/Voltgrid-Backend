@@ -1,0 +1,7 @@
+*.class
+VoltGrid_java/out/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/
