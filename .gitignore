@@ -1,0 +1,6 @@
+out/
+*.class
+.env
+**/.env
+.vscode/
+**/PUT_MYSQL_CONNECTOR_JAR_HERE.jar
