@@ -1,4 +1,4 @@
-# VoltGrid_java (Member 3: Palak)
+# VoltGrid_java 
 
 Terminal-based Java backend with JDBC (MySQL). No frontend.
 
